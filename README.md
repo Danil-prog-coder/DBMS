@@ -1,2 +1,2 @@
-# IA assistant
+# AI assistant
 AI ассистент для анализа ценных бумаг
