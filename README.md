@@ -1,2 +1,2 @@
-# DBMS
-СУБД на основе PostgreSQL
+# IA assistant
+AI ассистент для анализа ценных бумаг
